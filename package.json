@@ -32,7 +32,7 @@
     "vue-gtag": "^3.5.2",
     "vue-i18n": "^11.1.11",
     "vue-router": "^4.5.1",
-    "vue-waterfall-plugin-next": "^2.6.9"
+    "vue-waterfall-plugin-next": "^3.0.0"
   },
   "devDependencies": {
     "@dragon-fish/sensitive-words-filter": "^2.0.1",
