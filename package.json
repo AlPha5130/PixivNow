@@ -42,7 +42,7 @@
     "@types/gif.js": "^0.2.5",
     "@types/js-cookie": "^3.0.6",
     "@types/lodash.escaperegexp": "^4.1.9",
-    "@types/node": "^22.17.2",
+    "@types/node": "^24.0.0",
     "@types/nprogress": "^0.2.3",
     "@vercel/node": "^5.3.13",
     "@vitejs/plugin-vue": "^6.0.1",
